@@ -1,0 +1,30 @@
+body{
+    background-image: url(bg\ wp.png);
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.glass{
+    width: 600px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px 3px rgba(255, 255, 255, 1);
+}
+
+h1{
+    color: linen;
+    font-size: 45px;
+    font-family: cursive;
+    text-align: center;
+}
+
+p{
+    color: linen;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
